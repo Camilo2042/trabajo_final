@@ -1,11 +1,8 @@
-import './aos.css';
-import './bootstrap.min.css';
-
 function App() {
   return (
-  <header>
+  {/*<header>
     <div className="Presentacion">
-    <nav className="Presentacion__1 navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" colorOnScroll="400">
+      <nav className="Presentacion__1 navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" colorOnScroll="400">
         <div className="container">
           <div className="Presentacion__2 navbar-translate">
             <a className="Presentacion__3 navbar-brand" rel="tooltip">Mi Hoja de vida</a>
@@ -19,7 +16,7 @@ function App() {
         </div>
       </nav>
     </div>
-  </header>
+  </header>*/}
   );
 }
 
